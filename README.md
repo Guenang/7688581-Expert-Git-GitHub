@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-en fait vous aurez besion d'intaller git sur votre poste en local
+en fait vous aurez besion d'intaller git sur votre poste
 ```
 
 
